@@ -1,6 +1,6 @@
 A simple currency converter built using React, Vite, and Tailwind CSS, fetching live exchange rates via an external API.
 
-🔗 Live: https://procurrency.netlify.app/📦 Repo: https://github.com/Sanjay-khandelwal/ReactProject
+🔗 Live: https://procurrency.netlify.app      Repo: https://github.com/Sanjay-khandelwal/ReactProject
 
 🔧 Features
 
